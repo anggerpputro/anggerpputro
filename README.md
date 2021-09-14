@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Perumda Air Minum Tirta Moedal Kota Semarang](https://pdamkotasmg.co.id) as a Software Engineer
-- 📫 How to reach me: [Instagram](https://instagram.com/mars_angger), [Twitter](https://twitter.com/anggerpputro), [LinkedIn](https://linked.in/anggerpputro)
+- 📫 How to reach me: [Instagram](https://instagram.com/anggerpputro), [Twitter](https://twitter.com/anggerpputro), [LinkedIn](https://linked.in/anggerpputro)
 
 | --- | --- |
 | --- | --- |
