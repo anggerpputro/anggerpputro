@@ -28,9 +28,10 @@
     <a href="#"><img alt="Angger's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anggerpputro&theme=react-dark" /></a>
   <div>
 </div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anggerpputro&column=8&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anggerpputro&column=8&theme=discord" />
 </div>
 <br/>
 
