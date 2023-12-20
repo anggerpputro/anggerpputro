@@ -18,8 +18,14 @@
 
   <hr/>
 
-  <div>
+  <!--<div>
     <a href="#"><img alt="Angger's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anggerpputro&custom_title=Angger's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> -->
+  <!-- <div>
+    [![Angger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anggerpputro&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </div> -->
+  <div>
+    <a href="#"><img alt="Angger's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anggerpputro&theme=react-dark" /></a>
   <div>
 </div>
 
