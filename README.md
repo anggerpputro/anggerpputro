@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anggerpputro&column=8&theme=discord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anggerpputro&column=8&theme=radical" />
 </div>
 <br/>
 
